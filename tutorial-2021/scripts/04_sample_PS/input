@@ -1,0 +1,4 @@
+intVar = 1
+floatVar = 9.99
+arrayVar = [1, 3, 5]
+strVar = "foobar"
